@@ -40,11 +40,6 @@ const buscarCep = async () => {
   } else{
    document.querySelector("#mensagemErro").value = 'CEP incorreto'
   }
-
-
-
-
-
 }
 
 document.querySelector('#cep')
